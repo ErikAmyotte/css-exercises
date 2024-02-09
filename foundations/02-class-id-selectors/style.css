@@ -1,0 +1,16 @@
+.group {
+    background-color: #d82534c5;
+    font-style: Verdana, DejaVu Sans, sans-serif;
+}
+#alpha {
+    color: #0717a3;
+    font-size: 36px;
+}
+.group.cooler{
+    font-size: 24px;
+}
+#beta{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #5cd470;
+}
